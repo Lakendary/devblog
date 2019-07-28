@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Software Development Blog', // Required
+  title: 'Dev Blog', // Required
   author: 'Jade Rickerts', // Required
   description: 'Business Analyst | .NET Developer',
   primaryColor: '#00a86b', // Required
