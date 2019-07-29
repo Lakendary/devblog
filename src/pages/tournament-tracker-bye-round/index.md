@@ -1,7 +1,7 @@
 ---
 title: Tournament Tracker - Bye Round
 date: "2019-07-29"
-featuredImage: './round_robin_tournament'
+featuredImage: './round_robin_tournament.jpg'
 ---
 
 I watched the first couple of [YouTube videos by Tim Corey](https://www.youtube.com/watch?v=HalXZUHfKLA&list=PLLWMQd6PeGY3t63w-8MMIjIyYS7MsFcCi) where he creates a tournament tracker desktop application from start to finish. I just finished the first features of the [PriceBook desktop application](https://www.jaderickerts.com/projects/pricebook.html) and wanted to try something different to just take my mind off that project for a while.
@@ -12,7 +12,7 @@ As I started the series, Tim talks about the round robin format in tournaments a
 
 The round robin format is where two teams or players play against each other. The winner of that match moves onto the next round until the last team or player remains. That is how you end up with powers of 2 because each round has a number of teams or players equal to a power of 2, depending on which round the tournament is in. 
 
-![Round Robin Tournament Format](./round_robin_tournament)
+![Round Robin Tournament Format](./round_robin_tournament.jpg)
 
 First things first, you need to have a bye round. A bye round would be round where some players play the round while others sit out. The goal of the bye round is to get the amount of players in the tournament down to a power of 2. Then all the remaining players can play against each other i.e. all players play in that round.
 
