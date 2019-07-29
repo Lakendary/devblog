@@ -4,7 +4,7 @@ date: "2019-07-29"
 featuredImage: './round_robin_tournament.jpg'
 ---
 
-I watched the first couple of [YouTube videos by Tim Corey](https://www.youtube.com/watch?v=HalXZUHfKLA&list=PLLWMQd6PeGY3t63w-8MMIjIyYS7MsFcCi) where he creates a tournament tracker desktop application from start to finish. I just finished the first features of the [PriceBook desktop application](https://www.jaderickerts.com/projects/pricebook.html) and wanted to try something different to just take my mind off that project for a while.
+I watched the first couple of <a href="https://www.youtube.com/watch?v=HalXZUHfKLA&list=PLLWMQd6PeGY3t63w-8MMIjIyYS7MsFcCi">YouTube videos by Tim Corey</a> where he creates a tournament tracker desktop application from start to finish. I just finished the first features of the <a href="https://www.jaderickerts.com/projects/pricebook.html">PriceBook desktop application</a> and wanted to try something different to just take my mind off that project for a while.
 
 <!-- end -->
 
