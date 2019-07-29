@@ -43,8 +43,8 @@ for(int i = 1; i <= amountOfPlayers; i=i*2){
 return result; 
 ```
 
-It's important to note that in the for loop, that I should be less than AND equal to the amount of players. If you leave out that equals sign and you do end up with a tournament with an amount of players equal to the power of 2, this function will return a lower round then it's supposed to. For example, if there are 16 players in the tournament (a power of 2), this function will return 8 if there was no equals sign. 
+It's important to note that in the for loop, that I should be less than **AND** equal to the amount of players. If you leave out that equals sign and you do end up with a tournament with an amount of players equal to the power of 2, this function will return a lower round then it's supposed to. For example, if there are 16 players in the tournament (a power of 2), this function will return 8 if there was no equals sign. 
 
 That's it for now. I will go through the rest of the course and see how close I am to Tim Corey. I will however try to do something else (Superbru Pick Tracker) while I follow that course because I just want to learn Tim's process of development.
 
-Until next time. Thanks for reading. :thumbsup:
+Until next time. Thanks for reading.
