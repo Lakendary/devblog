@@ -1,6 +1,6 @@
 ---
 title: Web Development
-date: "2019-09-01"
+date: "2019-09-04"
 # featuredImage: './round_robin_tournament.jpg'
 ---
 
@@ -71,5 +71,6 @@ At the end of the day, it just opens up your application to a wider audience. Th
 
 The Internet is not going anywhere soon. In fact, more applications are starting to move to the cloud. Soon users won't need desktops any more. All the processing and heavy lifting will be done somewhere else and the user just views the end result on their smart phone or tablet. So there is always going to be jobs and business opportunities out there for web developers. Unlike desktop development which seems to be for big corporations only.
 
-
 Until next time. Thanks for reading.
+
+Photo by [Alvaro Reyes](https://unsplash.com/@alvaroreyes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/computer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
