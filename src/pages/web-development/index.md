@@ -4,7 +4,7 @@ date: "2019-09-01"
 # featuredImage: './round_robin_tournament.jpg'
 ---
 
-After some careful consideration, I've decided to change my main area of development from desktop development to web development. It's a decision I haven't take lightly. This is my thinking process behind the switch.
+After some careful consideration, I've decided to change my main area of development from desktop development to web development. It's a decision I haven't take lightly. It's a switch I've wanted to make for a couple of months now. This is my thinking process behind the switch.
 
 <!-- end -->
 ## Desktop Development Journey
