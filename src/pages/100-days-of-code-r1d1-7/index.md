@@ -1,6 +1,6 @@
 ---
 title: 100 Days Of Code - Round 1 Days 1 to 7
-date: "2019-10-27"
+date: "2019-10-28"
 featuredImage: './100DaysOfCode01.jpg'
 ---
 
