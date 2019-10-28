@@ -54,7 +54,7 @@ I learned a lot this week and I expect the same in upcoming weeks. I'm not too s
 
 Once I become an expert in ASP.NET Core, I'll write technical blog posts. For now, I'm documenting my journey from 1 to 100 days.
 
-For more detail on how I did each day, check out my [100 Days of Code Log](https://github.com/Lakendary/100-days-of-code/blob/master/log.md) on Github. [Follow me](https://github.com/Lakendary/100-days-of-code/blob/master/log.md) on Twitter for all my 100 Days Of Code tweets.
+For more detail on how I did each day, check out my [100 Days of Code Log](https://github.com/Lakendary/100-days-of-code/blob/master/log.md) on Github. [Follow me](https://twitter.com/lkn_ant) on Twitter for all my 100 Days Of Code tweets.
 
 Until next time. Thanks for reading.
 
