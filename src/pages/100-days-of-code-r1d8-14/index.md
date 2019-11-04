@@ -12,7 +12,7 @@ But, I won't dwell too much on the negative and focus rather on the other 6 days
 
 ### Mornings are better than Evenings
 
-The best time for me to get my hour of coding in is at 5 AM in the morning. It sounds grueling at first but I've already managed to form this habit. I did a 100 days challenge for waking up at 5 AM earlier this year. This is also the time where everyone else is asleep and I can do what I want without interruptions. On most days, the baby is asleep at that time and if he is awake, my wife is feeding him. But, I'll drop everything if the baby is too fussy and my wife needs my help.
+The best time for me to get my hour of coding in is at 5 AM in the morning. It sounds gruelling at first but I've already managed to form this habit. I did a 100 days challenge for waking up at 5 AM earlier this year. This is also the time where everyone else is asleep and I can do what I want without interruptions. On most days, the baby is asleep at that time and if he is awake, my wife is feeding him. But, I'll drop everything if the baby is too fussy and my wife needs my help.
 
 On the weekends when I sleep in a little, I stress a little trying to find a time during the day to schedule my coding sessions. Most of my weekends are usually planned for me. There is always a ton to get done that wasn't done during the week. Or there are some festivities to attend to and planning for that is also a mission most days.
 
