@@ -1,0 +1,12 @@
+Introduction
+Another week down, another blog post. I didn't skip out on any coding this week, however, I did do some coding at work one day instead of at home.
+This upcoming week I'll be doing some maintenance on the JRS Document Storage desktop application (insert link here). I probably won't learn a lot of new stuff.
+I will continue with the 5AM tutorials though.
+
+Main learning points this week:
+1. It gets easier over time
+2. Bootstrap / UI 
+3. Form submission (creation, validation and file upload)
+4. Database creation with migration / EF Core
+5. XML file to Combo Box
+
