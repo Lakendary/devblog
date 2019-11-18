@@ -1,0 +1,14 @@
+This past week was a gruelling week for me. I didn't write any code at home or learn anything new from the ASP.NET
+Core course. All I did was work on new features for JRS Document Storage and fix bugs.
+
+At work I am under immense pressure to release the new version of JRS Document Storage and other duties at work that
+needs my urgent attention. Therefore, when I got home, I wasn't in the mood for anything else. I didn't tweet about
+my progress. I didn't update my log on Github. I spent time with my family when I got a chance. 
+
+I did learn something this week that I can take with me as a developer. Some of these points are conventional and 
+not just applicable to software development.
+
+Protecting your time is an uphill battle
+
+
+
