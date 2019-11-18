@@ -38,6 +38,8 @@ You shouldn't only plan for the development of your code. Planning should includ
 
 ### In conclusion
 
+There will be frustrating weeks. There will be times when I want to give up. There are times when I'm not in the mood. Honestly, if I didn't commit to this challenge publicly, I probably wouldn't have made a post. But I have to it. I have to make it all the way through to blog post number 15. Hopefully there will be better weeks.
+
 For more detail on how I did each day, check out my [100 Days of Code Log](https://github.com/Lakendary/100-days-of-code/blob/master/log.md) on Github. [Follow me](https://twitter.com/lkn_ant) on Twitter for all my 100 Days Of Code tweets.
 
 Until next time. Thanks for reading.
