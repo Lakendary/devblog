@@ -35,5 +35,22 @@ even more stressful closer to the deadline. What can go wrong, will go wrong. Yo
 have no idea how to fix or the solution isn't that simple to implement. You have to let things go and hope you can 
 implement it in the next version.
 
-Desktop vs web development
+There were a couple of features that I wanted to implement but I couldn't figure out how to do it. I didn't have
+the time to research solutions. I didn't have the time to try to implement those solutions. There was no time to 
+refactor my code and make it look better. I feel like I've failed myself but at least I was able to put out something
+that works.
 
+Planning is vital
+
+Planning is the most important soft skills you need to become a successful developer. I did some planning on the 
+JRS Document Storage application, but I didn't do enough of it. I didn't think through how I was going to update
+my application when it was required. I didn't plan out the overall architecture well enough. Now I have to update
+about 20 databases manually because I failed to plan for a system that will do this automatically.
+
+Going forward, before I start a new project or make any changes to a current one, I have to plan it from start to
+finish. This will help guide me through the entire process and help me keep my eye on the prize. One tends to work
+on other trivial tasks or bugs when you don't have a plan of action. 
+
+Planning shouldn't only include development, but other activities like design, refactoring and testing for example.
+I often neglect to make time for the above. When the deadline draws closer, you realise the sheer amount of work
+still left to be done that you didn't account for.
