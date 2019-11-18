@@ -8,7 +8,32 @@ my progress. I didn't update my log on Github. I spent time with my family when 
 I did learn something this week that I can take with me as a developer. Some of these points are conventional and 
 not just applicable to software development.
 
-Protecting your time is an uphill battle
+Protecting my time was futile
 
+I am currently employed as a Business Analyst. However, during my tenure, I've given a lot of technical support to 
+our staff. Now that we've gotten to a stage where I have more analysis and development work to do. This part of my 
+job my colleagues don't notice. They come to me with their technical queries, no matter how much I try to explain 
+that I do not have the time to assist.
 
+Protecting my time is a constant battle. Co-workers would send me an email, call me on my land line, then my work cell 
+phone and finally my personal cell phone in that order to get a hold of me. Those who are in the office, walk into my 
+office and expect assistance. Others who aren't in the office, sends another office colleague to come to me personally
+to request that I urgently attend to their call.
+
+I know there are lots of strategies out there to protect your time. I could have probably read up on a few of them. 
+But when you have co-workers that only want their problems solved and they don't care about your time or schedule, 
+I doubt anything on the Internet was going to get me out of this jam.
+
+The only thing that I can work at this point, besides ignoring everyone, is working remotely. This is something I am 
+working towards and hopefully I can convince my boss this is the right move. Or with time, my colleagues will learn
+to respect my time and let me get on with my job.
+
+Getting comfortable with imperfections
+
+As time runs out and deadlines are fast approaching, the need to perfect your code goes out the window. Things get 
+even more stressful closer to the deadline. What can go wrong, will go wrong. You will get error messages that you
+have no idea how to fix or the solution isn't that simple to implement. You have to let things go and hope you can 
+implement it in the next version.
+
+Desktop vs web development
 
