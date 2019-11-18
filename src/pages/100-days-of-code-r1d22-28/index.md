@@ -24,13 +24,13 @@ The only thing that I can work at this point, besides ignoring everyone, is work
 
 ### Getting comfortable with imperfections
 
-As time runs out and deadlines are fast approaching, the need to perfect your code goes out the window. Things get even more stressful closer to the deadline. What can go wrong, will go wrong. You will get error messages that you have no idea how to fix or the solution isn't that simple to install. You have to let things go and hope you can implement it in the next version.
+As time runs out and deadlines are fast approaching, the need to perfect your code goes out the window. Things get even more stressful closer to the deadline. What can go wrong, will go wrong. You will get error messages that you have no idea how to fix or the solution isn't that simple to implement. You have to let things go and hope you can implement it in the next version.
 
 There were a couple of features that I wanted to implement but I couldn't figure out how to do it. I didn't have the time to research solutions. I didn't have the time to try to put in place those solutions. There was no time to refactor my code and make it look better. I've failed myself but at least I was able to put out something that works.
 
 ### Planning is vital
 
-Planning is the most important soft skills you need to become a successful developer. I did some planning on the  JRS Document Storage application, but I didn't do enough of it. I didn't think through how I was going to update my application when it was required. I didn't plan out the architecture well enough. Now I have to update about 20 databases manually because I failed to plan for a system that will do this.
+Planning is the most important soft skills you need to become a successful developer. I did some planning on the  [JRS Document Storage](https://www.jaderickerts.com/projects/jrs-document-storage.html) application, but I didn't do enough of it. I didn't think through how I was going to update my application when it was required. I didn't plan out the architecture well enough. Now I have to update about 20 databases manually because I failed to plan for a system that will do this.
 
 Going forward, before I start a new project or make any changes to a current one, I have to plan it from start to finish. This will help guide me through the entire process and help me keep my eye on the prize. One tends to work on other trivial tasks or bugs when you don't have a plan of action.
 
